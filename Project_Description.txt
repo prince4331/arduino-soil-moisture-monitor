@@ -1,0 +1,4 @@
+﻿Title: Soil Moisture Monitor
+Overview: Standalone soil moisture tracker with Blynk dashboard and optional buzzer control.
+Hardware: ESP8266 NodeMCU, soil moisture probe, buzzer.
+Notes: Adjust the map conversion to match your sensor calibration range.
