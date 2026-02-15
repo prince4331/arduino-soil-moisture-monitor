@@ -1,5 +1,7 @@
 ﻿# Soil Moisture Monitor
 
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-Agriculture-green) ![Status](https://img.shields.io/badge/status-Active-success)
+
 Standalone soil moisture tracker with Blynk dashboard and optional buzzer control.
 
 ## Original Folder
